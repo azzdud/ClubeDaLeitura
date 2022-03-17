@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubeDaLeitura.ConsoleApp", "ClubeDaLeitura.ConsoleApp\ClubeDaLeitura.ConsoleApp.csproj", "{CD7FB30D-DB58-424C-89E4-500C0161EC0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoDeEquipamentos.ConsolApp", "..\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsolApp\GestaoDeEquipamentos.ConsolApp.csproj", "{72E4533F-E98A-41E9-9C60-E7DBB64EC70B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoDeEquipamentos.ConsolApp", "..\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsolApp\GestaoDeEquipamentos.ConsolApp.csproj", "{3A08D4C0-DD67-4DAE-BB0C-E7C13C4686EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CD7FB30D-DB58-424C-89E4-500C0161EC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7FB30D-DB58-424C-89E4-500C0161EC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7FB30D-DB58-424C-89E4-500C0161EC0F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72E4533F-E98A-41E9-9C60-E7DBB64EC70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72E4533F-E98A-41E9-9C60-E7DBB64EC70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72E4533F-E98A-41E9-9C60-E7DBB64EC70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72E4533F-E98A-41E9-9C60-E7DBB64EC70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A08D4C0-DD67-4DAE-BB0C-E7C13C4686EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A08D4C0-DD67-4DAE-BB0C-E7C13C4686EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A08D4C0-DD67-4DAE-BB0C-E7C13C4686EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A08D4C0-DD67-4DAE-BB0C-E7C13C4686EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,10 +3,10 @@
 namespace ClubeDaLeitura.ConsoleApp
 {
     internal class Program
-    {        
+    {
         static void Main(string[] args)
-        {          
-            MenuPrincipal();            
+        {
+            MenuPrincipal();
         }
         
         public static string MenuPrincipal()
